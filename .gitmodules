@@ -1,0 +1,3 @@
+[submodule "oncoprintjs"]
+	path = oncoprintjs
+	url = http://github.com/Oncoscape/oncoprintjs.git
